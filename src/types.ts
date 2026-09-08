@@ -4,6 +4,7 @@ export interface Preferences {
   ocrMode: string;
   ignoreLineBreaks: boolean;
   keepImage: boolean;
+  playSound: boolean;
   customWordsList: string;
 }
 
